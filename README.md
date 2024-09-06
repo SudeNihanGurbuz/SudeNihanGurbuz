@@ -1,11 +1,3 @@
-- 👋 Hi, I’m computer engineering student
-- 👀 I want to learn object oriented programing
-- 🌱 I'm interested in everything that develops me
-- 💞️ I want to improve myself by cooperating with you
-- 📫 if you want to reach me, you send me e-mail from sudegurbuz29@gmail.com
-
-
-
 ### Hi there 👋  I'm [Sude Nihan Gürbüz!](https://github.com/SudeNihanGurbuz/)
 
 <img src="https://komarev.com/ghpvc/?username=SudeNihanGurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="SudeNihanGurbuz" />
@@ -16,7 +8,7 @@ I'm a Back-End Developer. I'm passionate about Software Development and Machine 
 - 🔭 &nbsp; The heavens showed me that I can always do better.
 -->
 
-- 🛠 &nbsp; I’m currently working with C#, .Net Core, Entity Framework, PostgreSQL, Mongodb, RabbitMQ, etc.
+- 🛠 &nbsp; I’m currently learning C#, .Net Core, Entity Framework.
 
 - 🌱 &nbsp; I’m currently developing some of my skills 🤣 And I know that there is still to much to learn.
 
@@ -48,7 +40,7 @@ I'm a Back-End Developer. I'm passionate about Software Development and Machine 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-💾 *Databases*
+<!--💾 *Databases*
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -58,7 +50,7 @@ I'm a Back-End Developer. I'm passionate about Software Development and Machine 
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![.EF](https://img.shields.io/badge/EF-5C2D91?style=for-the-badge&logo=EF&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)-->
 
 🎨 *IDEs / Editors*
 
@@ -67,7 +59,7 @@ I'm a Back-End Developer. I'm passionate about Software Development and Machine 
 
 🕓 *Version Control*
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<!--![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)-->
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
